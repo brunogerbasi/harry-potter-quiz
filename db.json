@@ -1,0 +1,43 @@
+{
+  "bg": "http://bruno-gerbasi.com/projects/nextjs/bg-hp.jpg",
+  "title": "Quiz Harry Potter",
+  "description": "Teste os seus conhecimentos sobre Harry Potter",
+  "questions": [
+    {
+      "image": "https://img.quizur.com/f/img600c4dd64cf2a1.60470769.jpeg?lastEdited=1611419099",
+      "title": "Qual é o nome completo de hermione?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Hermione Granger",
+        "Hermione Potter",
+        "Hermione Lovegood"
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img600c4ece0e0764.70356234.jpeg?lastEdited=1611419344",
+      "title": "Qual é o nome completo de Ron?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Ronald Potter",
+         "Ronald Bilius Weasley",
+         "Ron Weasley"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#BE2E06",
+      "secondary": "#2B062F",
+      "mainBg": "#2B062F",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}

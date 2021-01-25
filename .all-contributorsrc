@@ -1,0 +1,59 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "omariosouto",
+      "name": "Mario Souto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13791385?v=4",
+      "profile": "http://youtube.com/c/DevSoutinho",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JulianaAmoasei",
+      "name": "Juliana Amoasei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32266030?v=4",
+      "profile": "http://www.alura.com.br",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lucas-hidalgo",
+      "name": "Lucas Cesar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54157203?v=4",
+      "profile": "https://github.com/lucas-hidalgo",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "peas",
+      "name": "Paulo Silveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71636?v=4",
+      "profile": "https://www.alura.com.br/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "aluraquiz-base",
+  "projectOwner": "alura-challenges",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
