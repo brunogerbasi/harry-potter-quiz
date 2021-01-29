@@ -1,39 +1,59 @@
 {
   "bg": "http://bruno-gerbasi.com/projects/nextjs/bg-hp.jpg",
   "title": "Quiz Harry Potter",
-  "description": "Teste os seus conhecimentos sobre Harry Potter",
+  "description": "Um quiz rápido sobre o universo Harry Potter",
   "questions": [
     {
-      "image": "https://img.quizur.com/f/img600c4dd64cf2a1.60470769.jpeg?lastEdited=1611419099",
-      "title": "Qual é o nome completo de hermione?",
-      "description": "",
-      "answer": 2,
+      "image": "https://img.quizur.com/f/img60108e2f98a771.41894572.jpg?lastEdited=1611697720",
+      "title": "Qual é o nome completo de Harry?",
+      "description": "Pergunta fácil em!",
+      "answer": 0,
       "alternatives": [
-        "Hermione Granger",
-        "Hermione Potter",
-        "Hermione Lovegood"
+        "Harry James Potter",
+        "Harry Potter",
+        "Harry Potter James"
       ]
     },
     {
-      "image": "https://img.quizur.com/f/img600c4ece0e0764.70356234.jpeg?lastEdited=1611419344",
-      "title": "Qual é o nome completo de Ron?",
-      "description": "",
+      "image": "https://img.quizur.com/f/img60108f319ec494.83154874.jpg?lastEdited=1611697974",
+      "title": "Quantos anos Harry tinha no 4°filme?",      
+      "answer": 1,
+      "alternatives": [
+        "18",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img6010910bde5576.61890072.jpg?lastEdited=1611698467",
+      "title": "Quem foi o responsável por causar a cicatriz dele?",
+      "answer": 2,
+      "alternatives": [
+        "Sirius Black",
+        "Severo Snap",
+        "Voldermort"
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img6010929cc19919.14731840.jpg?lastEdited=1611698854",
+      "title": "Qual era o maior medo de Harry Potter?",
       "answer": 0,
       "alternatives": [
-         "Ronald Potter",
-         "Ronald Bilius Weasley",
-         "Ron Weasley"
+        "Dementadores",
+        "Aranhas",
+        "Voldemort"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
-      "primary": "#BE2E06",
-      "secondary": "#2B062F",
-      "mainBg": "#2B062F",
+      "primary": "#222222",
+      "secondary": "#e89c3f",
+      "mainBg": "#213f4e",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"

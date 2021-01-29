@@ -1,17 +1,16 @@
 import styled from 'styled-components';
 
 import React from 'react';
-import PropTypes from 'prop-types';
 
 
 function Logo() {
   return (
-    <h1>Harry Potter</h1>
+      <>
+        <img src="/hp-logo.png" />
+      </>
+      
   );
 }
-
-
-
 const QuizLogo = styled(Logo)`
   margin: auto;
   display: block;
