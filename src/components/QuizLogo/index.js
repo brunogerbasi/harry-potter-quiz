@@ -12,9 +12,11 @@ function Logo() {
   );
 }
 const QuizLogo = styled(Logo)`
+
   margin: auto;
   display: block;
   @media screen and (max-width: 500px) {
+    max-width: 100%;
     margin: 0;
   }
 `;
